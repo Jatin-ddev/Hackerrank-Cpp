@@ -1,2 +1,2 @@
-# Hackerrank-C-CPP
+# Hackerrank-CPP
 It Will Contain Hackerrank solutions In C / C++
